@@ -1,4 +1,4 @@
-## Exemplo de utizalição da biblioteca [node-fetch](https://www.npmjs.com/package/node-fetch)
+## Exemplo de utilização da biblioteca [node-fetch](https://www.npmjs.com/package/node-fetch)
 
 ### Passo para executar o exemplo:
 1. Com o node instalado:
